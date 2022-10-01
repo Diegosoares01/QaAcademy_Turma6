@@ -1,6 +1,4 @@
-package ExerciciosNivelMedio;
-
-import java.sql.SQLOutput;
+package exerciciosNivelMedio;
 
 public class Exercicio7 {
     public static void main(String[] args) {

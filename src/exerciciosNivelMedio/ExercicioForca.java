@@ -1,4 +1,4 @@
-package ExerciciosNivelMedio;
+package exerciciosNivelMedio;
 import java.util.Scanner;
 
 public class ExercicioForca {

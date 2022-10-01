@@ -1,4 +1,4 @@
-package ExerciciosNivelMedio;
+package exerciciosNivelMedio;
 //Faça um algoritmo para exibir todos os meses digitados anteriormente.
 public class Exercicio8 {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package ExerciciosNivelMedio;
+package exerciciosNivelMedio;
 import javax.swing.*;
-import java.util.Scanner;
 
 //Faça um algoritmo para ler 5 números, verificar e exibir, quais dos 5 números digitados, é o menor
 public class Exercicio5 {

@@ -1,4 +1,4 @@
-package ExerciciosNivelMedio;
+package exerciciosNivelMedio;
 
 import javax.swing.*;
 
