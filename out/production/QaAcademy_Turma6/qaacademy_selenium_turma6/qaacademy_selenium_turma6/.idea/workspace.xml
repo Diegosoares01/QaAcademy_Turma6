@@ -4,7 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad7ec27-fc17-4fca-b237-9d2a4a1def5e" name="Changes" comment="" />
+    <list default="true" id="3ad7ec27-fc17-4fca-b237-9d2a4a1def5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../QaAcademy_Turma6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../QaAcademy_Turma6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/ExecuçãoNivelFacil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/ExecuçãoNivelFacil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/ExecucaoNivelMedio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/ExecucaoNivelMedio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelMedio/Exercicio8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_fxml_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/ExerciciosNivelMedium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/java/com/example/exerciciosnivelmedium/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/java/com/example/exerciciosnivelmedium/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/resources/com/example/exerciciosnivelmedium/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cep/CepTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cep/CepTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cep/CepTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cep/CepTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/ExecucaoNivelMedio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/ExecucaoNivelMedio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelMedio/Exercicio8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,34 +100,82 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.CepTest.cep">
-    <configuration name="CepTest.cep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RegisterTest.frameTest">
+    <configuration name="RegisterTest.alertOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qaacademy_selenium_turma6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cep.*" />
+          <option name="PATTERN" value="register.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cep" />
-      <option name="MAIN_CLASS_NAME" value="cep.CepTest" />
-      <option name="METHOD_NAME" value="cep" />
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="alertOK" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleTest.testeGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTest.alertOkandCancel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qaacademy_selenium_turma6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="google.*" />
+          <option name="PATTERN" value="register.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="google" />
-      <option name="MAIN_CLASS_NAME" value="google.GoogleTest" />
-      <option name="METHOD_NAME" value="testeGoogle" />
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="alertOkandCancel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.alertTextBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qaacademy_selenium_turma6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="alertTextBox" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.allertOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qaacademy_selenium_turma6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="allertOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.frameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qaacademy_selenium_turma6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="frameTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CepTest.cep" />
-        <item itemvalue="JUnit.GoogleTest.testeGoogle" />
+        <item itemvalue="JUnit.RegisterTest.frameTest" />
+        <item itemvalue="JUnit.RegisterTest.alertTextBox" />
+        <item itemvalue="JUnit.RegisterTest.alertOkandCancel" />
+        <item itemvalue="JUnit.RegisterTest.alertOK" />
+        <item itemvalue="JUnit.RegisterTest.allertOK" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +201,18 @@
       <updated>1665839539884</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/qaacademy_selenium_turma6$GoogleTest_testeGoogle.ic" NAME="GoogleTest.testeGoogle Coverage Results" MODIFIED="1666450741950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
