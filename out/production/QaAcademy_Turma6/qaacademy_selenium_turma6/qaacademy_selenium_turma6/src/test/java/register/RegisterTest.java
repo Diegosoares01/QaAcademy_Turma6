@@ -84,7 +84,7 @@ public class RegisterTest {
         //Assert.assertEquals("Texto invalido", "Hello Diego How are you today", textoTextBox);
 
     }
-    @Test
+    @Test //Automação de frame
     public void frameTest(){
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
@@ -94,5 +94,18 @@ public class RegisterTest {
         driver.findElement(By.xpath("/html/body/section/div/div/div/input")).sendKeys("Diego");
         driver.switchTo().defaultContent();//Serve para fazer o frame voltar a estar como antes
 
+    }
+    @Test //Automaçao de janela
+    public void windowTest(){
+        WebDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        driver.get("https://demo.automationtesting.in/Windows.html");
+        driver.findElement(By.xpath("//*[@id=\"Tabbed\"]/a/button")).click();
+        Object[] janelas = driver.getWindowHandles().toArray();
+        driver.switchTo().window(janelas[1].toString());
+        driver.getCurrentUrl();
+        String url = driver.getCurrentUrl();
+        Assert.assertEquals("https://www.selenium.dev/", url);
     }
 }
