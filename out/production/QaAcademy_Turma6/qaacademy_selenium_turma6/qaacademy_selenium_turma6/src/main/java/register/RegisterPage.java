@@ -5,6 +5,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class RegisterPage {
+    WebDriver driver; //Declaração de variável
+
+    public RegisterPage(WebDriver driverParametro){ //Metodo construtor
+        driver = driverParametro;
+
+    }
     private String firstName = "//*[@id=\"basicBootstrapForm\"]/div[1]/div[1]/input";
     private String lastName = "//*[@id=\"basicBootstrapForm\"]/div[1]/div[2]/input";
     private String address = "//*[@id=\"basicBootstrapForm\"]/div[2]/div/textarea";
@@ -22,42 +28,45 @@ public class RegisterPage {
 //    private String confirmPassword = "";
 
     //Açoes da tela:
-    public void preencherNome(WebDriver driver){
-        driver.findElement(By.xpath(firstName)).sendKeys("Diego");
+    public void preencherNome(String nome){
+        driver.findElement(By.xpath(firstName)).sendKeys(nome);
     }
-    public void preencherSegundoNome(WebDriver driver){
-        driver.findElement(By.xpath(lastName).sendKeys("Soares");
+    public void preencherSegundoNome(String sobrenome){
+        driver.findElement(By.xpath(lastName)).sendKeys(sobrenome);
     }
-    public void preencherEndereco(WebDriver driver){
-        driver.findElement(By.xpath(address).sendKeys("Rua Um Dois Tres da Silva Quatro");
+    public void preencherEndereco(String endereco){
+        driver.findElement(By.xpath(address)).sendKeys(endereco);
     }
-    public void preencherEmail(WebDriver driver){
-        driver.findElement(By.xpath(emailAddress).sendKeys("teste@teste.com");
+    public void preencherEmail(String email){
+        driver.findElement(By.xpath(emailAddress)).sendKeys(email);
     }
-    public void PreencherTelefone(WebDriver driver){
-        driver.findElement(By.xpath(phone).sendKeys("98765432");
+    public void PreencherTelefone(String telefone){
+        driver.findElement(By.xpath(phone)).sendKeys(telefone);
     }
-    public void clicarHobbies(WebDriver driver){
-        driver.findElement(By.xpath(hobbies).click();
+    public void selecionarGenero(){
+        driver.findElement(By.xpath(gender)).click();
     }
-    public void selecionarSkills(WebDriver driver){
+    public void clicarHobbies(){
+        driver.findElement(By.xpath(hobbies)).click();
+    }
+    public void selecionarSkills(String ski){
         Select skillsSelect = new Select(driver.findElement(By.id(skills)));
-        skills.selectByVisibleText("Java");
+        skillsSelect.selectByVisibleText(ski);
     }
-    public void selecionarPais(WebDriver driver){
+    public void selecionarPais(){
         driver.findElement(By.xpath(selectCountry1)).click();
         driver.findElement(By.xpath(selectCountry2)).click();
     }
-    public void selecionarAno(WebDriver driver){
+    public void selecionarAno(String YEAR){
         Select year = new Select(driver.findElement(By.id(ano)));
-        year.selectByVisibleText("1986");
+        year.selectByVisibleText(YEAR);
     }
-    public void selecionarMes(WebDriver driver){
+    public void selecionarMes(String MONTH){
         Select month = new Select(driver.findElement(By.xpath(mes)));
-        month.selectByVisibleText("October");
+        month.selectByVisibleText(MONTH);
     }
-    public void selecionarDia(WebDriver driver){
+    public void selecionarDia(String DAY){
         Select day = new Select(driver.findElement(By.id(dia)));
-        day.selectByVisibleText("5");
+        day.selectByVisibleText(DAY);
     }
 }

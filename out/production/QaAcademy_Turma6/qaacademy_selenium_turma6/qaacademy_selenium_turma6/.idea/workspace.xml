@@ -50,6 +50,9 @@
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/java/module-info.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/resources/com/example/exerciciosnivelmedium/hello-view.fxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/register/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/register/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/register/RegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/register/RegisterTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" afterDir="false" />
@@ -104,7 +107,7 @@
       <recent name="google" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemplosJava3">
+  <component name="RunManager" selected="JUnit.RegisterTest.testeRegister">
     <configuration name="ExemplosJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExemplosJava3" />
       <module name="qaacademy_selenium_turma6" />
@@ -144,33 +147,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleTest.testarGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qaacademy_selenium_turma6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="google.*" />
+          <option name="PATTERN" value="register.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="google" />
-      <option name="MAIN_CLASS_NAME" value="google.GoogleTest" />
-      <option name="METHOD_NAME" value="testarGoogle" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleTest.testeGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTest.testeRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qaacademy_selenium_turma6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="google.RetornoGooglePage" />
+          <option name="PATTERN" value="register.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="google" />
-      <option name="MAIN_CLASS_NAME" value="google.GoogleTest" />
-      <option name="METHOD_NAME" value="testeGoogle" />
+      <option name="PACKAGE_NAME" value="register" />
+      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
+      <option name="METHOD_NAME" value="testeRegister" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -178,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RegisterTest.testeRegister" />
+        <item itemvalue="JUnit.RegisterTest" />
         <item itemvalue="Application.ExemplosJava3" />
         <item itemvalue="JUnit.CepTest.testCepRefactor" />
         <item itemvalue="JUnit.CepTest.cep" />
-        <item itemvalue="JUnit.GoogleTest.testarGoogle" />
-        <item itemvalue="JUnit.GoogleTest.testeGoogle" />
       </list>
     </recent_temporary>
   </component>
