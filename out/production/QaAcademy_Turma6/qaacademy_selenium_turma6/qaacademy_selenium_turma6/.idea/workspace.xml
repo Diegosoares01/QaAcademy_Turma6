@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ad7ec27-fc17-4fca-b237-9d2a4a1def5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cep/BuscaCepPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/google/RetornoGooglePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../QaAcademy_Turma6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../QaAcademy_Turma6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/ExecuçãoNivelFacil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/ExecuçãoNivelFacil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExerciciosNivelFacil/Exercicio10.class" afterDir="false" />
@@ -53,12 +50,8 @@
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/java/module-info.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ExerciciosNivelMedium/src/main/resources/com/example/exerciciosnivelmedium/hello-view.fxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cep/CepTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cep/CepTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/google/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/google/GoogleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/register/RegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cep/CepTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cep/CepTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/google/GoogleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/google/GoogleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/register/RegisterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/register/RegisterTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecEasyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/ExecuçãoNivelFacil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../src/exerciciosNivelFacil/Exercicio10.java" afterDir="false" />
@@ -113,7 +106,14 @@
       <recent name="google" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CepTest.testCepRefactor">
+  <component name="RunManager" selected="Application.ExemplosJava3">
+    <configuration name="ExemplosJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemplosJava3" />
+      <module name="qaacademy_selenium_turma6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CepTest.cep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qaacademy_selenium_turma6" />
       <extension name="coverage">
@@ -178,29 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegisterTest.windowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qaacademy_selenium_turma6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="register.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="register" />
-      <option name="MAIN_CLASS_NAME" value="register.RegisterTest" />
-      <option name="METHOD_NAME" value="windowTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemplosJava3" />
         <item itemvalue="JUnit.CepTest.testCepRefactor" />
         <item itemvalue="JUnit.CepTest.cep" />
         <item itemvalue="JUnit.GoogleTest.testarGoogle" />
         <item itemvalue="JUnit.GoogleTest.testeGoogle" />
-        <item itemvalue="JUnit.RegisterTest.windowTest" />
       </list>
     </recent_temporary>
   </component>
